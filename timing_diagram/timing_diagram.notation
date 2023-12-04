@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.3/notation" xmlns:style="http://www.eclipse.org/papyrus/infra/gmfdiag/style" xmi:id="_iqU0oJKREe6MWeOc34tP_Q" type="PapyrusUMLTimingDiagram" name="Timing Diagram" measurementUnit="Pixel">
+  <styles xsi:type="notation:StringValueStyle" xmi:id="_iqU0oZKREe6MWeOc34tP_Q" name="diagram_compatibility_version" stringValue="1.4.0"/>
+  <styles xsi:type="notation:DiagramStyle" xmi:id="_iqU0opKREe6MWeOc34tP_Q"/>
+  <styles xsi:type="style:PapyrusDiagramStyle" xmi:id="_iqU0o5KREe6MWeOc34tP_Q" diagramKindId="org.eclipse.papyrus.uml.diagram.timing">
+    <owner href="timing_diagram.uml#_iqHZQJKREe6MWeOc34tP_Q"/>
+  </styles>
+  <element href="timing_diagram.uml#_iqHZQJKREe6MWeOc34tP_Q"/>
+</notation:Diagram>

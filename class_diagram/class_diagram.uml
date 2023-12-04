@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model xmi:version="20131001" xmlns:xmi="http://www.omg.org/spec/XMI/20131001" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:uml="http://www.eclipse.org/uml2/5.0.0/UML" xmi:id="_RvGCkJKREe6MWeOc34tP_Q" name="class_diagram">
+  <packageImport xmi:type="uml:PackageImport" xmi:id="_R24soJKREe6MWeOc34tP_Q">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <packagedElement xmi:type="uml:Class" xmi:id="_fc3wQJKIEe6ZHZnF9JRSig" name="Class2">
+    <ownedAttribute xmi:type="uml:Property" xmi:id="_ihD6AJKIEe6ZHZnF9JRSig" name="class3" type="_gaTo4JKIEe6ZHZnF9JRSig" association="_ihBdwJKIEe6ZHZnF9JRSig">
+      <lowerValue xmi:type="uml:LiteralInteger" xmi:id="_ihND8JKIEe6ZHZnF9JRSig"/>
+      <upperValue xmi:type="uml:LiteralUnlimitedNatural" xmi:id="_ihOSEJKIEe6ZHZnF9JRSig" value="1"/>
+    </ownedAttribute>
+  </packagedElement>
+  <packagedElement xmi:type="uml:Class" xmi:id="_gaTo4JKIEe6ZHZnF9JRSig" name="Class3"/>
+  <packagedElement xmi:type="uml:Association" xmi:id="_ihBdwJKIEe6ZHZnF9JRSig" memberEnd="_ihD6AJKIEe6ZHZnF9JRSig _ihO5IJKIEe6ZHZnF9JRSig">
+    <eAnnotations xmi:type="ecore:EAnnotation" xmi:id="_ihCr4JKIEe6ZHZnF9JRSig" source="org.eclipse.papyrus">
+      <details xmi:type="ecore:EStringToStringMapEntry" xmi:id="_ihCr4ZKIEe6ZHZnF9JRSig" key="nature" value="UML_Nature"/>
+    </eAnnotations>
+    <ownedEnd xmi:type="uml:Property" xmi:id="_ihO5IJKIEe6ZHZnF9JRSig" name="class2" type="_fc3wQJKIEe6ZHZnF9JRSig" association="_ihBdwJKIEe6ZHZnF9JRSig"/>
+  </packagedElement>
+</uml:Model>
